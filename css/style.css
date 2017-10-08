@@ -27,7 +27,9 @@ p {
 .button-collapse {
   color: #26a69a;
 }
-
+.header-section {
+   margin-top: 180px;
+}
 .parallax-container {
   min-height: 380px;
   line-height: 0;
