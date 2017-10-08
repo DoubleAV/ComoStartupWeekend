@@ -11,6 +11,15 @@ nav .brand-logo {
   color: #444;
 }
 
+.live-nav {
+   height: auto;
+text-align: center;
+line-height: 1;
+}
+
+.logo {
+   max-width: 100%;
+}
 p {
   line-height: 2rem;
 }
@@ -22,7 +31,7 @@ p {
 .parallax-container {
   min-height: 380px;
   line-height: 0;
-  height: auto;
+  height: 250px;
   color: rgba(255,255,255,.9);
 }
   .parallax-container .section {
